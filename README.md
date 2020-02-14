@@ -1,2 +1,2 @@
-# ptt_crawler-with-bf
+# ptt_crawler-with-bs
 PTT Crawler with beautifulSoup
