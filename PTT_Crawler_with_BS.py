@@ -56,7 +56,7 @@ while count<page:
     Result += result
     result = "\n"
 
-print(Result)
+print(Result) #print確認結果, 可省略這行
 
 with open ("gossiping.txt","w",encoding="utf-8") as file:
     file.write(Result)
